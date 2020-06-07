@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">EditeText Editor</string>
+  <string name="title_activity_main">EditText Editor Demo</string>
+</resources>
